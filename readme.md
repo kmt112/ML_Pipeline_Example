@@ -1,8 +1,7 @@
-# Machine Learning Pipeline (Predicting O'levels Grades )
-## AIAP Batch 9 technical assessment submission
-Name : Tan Kah Ming
-NRIC : S9240905H
-Date​: 2021-08-02
+# Machine Learning Pipeline (Predicting Student Grades )
+## *title*
+Name : Your name 
+Date​: DD/MM/YY
 ## Data Overview
 ### Independent Features
 * `student-ID`​: Unique ID for each student
