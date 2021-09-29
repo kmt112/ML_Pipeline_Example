@@ -1,38 +1,23 @@
-# Machine Learning Pipeline (Predicting Student Grades )
+# Machine Learning Pipeline
 ## *title*
 Name : Your name 
 Date​: DD/MM/YY
 ## Data Overview
 ### Independent Features
-* `student-ID`​: Unique ID for each student
+* `describe the features`​: Describe the features
 ### Target Feature
-* `final_test`: Student's O-levels mathematics examination score
+* `Target Feature`: Describe the target score
 ### Unique Identifying Features
-* `student_ID`: Unique ID for each student
+* `index/ID`: Unique ID or index
 ### Catergorical Features
-* `bag_color`: Color of student bag
-* `CCA`: Enrolled CCA
-* `Learning Style` : Primary Learning Style
-* `Mode_of_transport`: Mode of transport to school
+* `Categorical features?`: types of categorical features
 ### Binary Features
-* `Tuition`: Indication of whether the student has tuition
-* `Direct Admission`: Mode of entering the school
-* `gender`: Y or N
+* `Binary features?`: Description of binary features
 ### Numerical Features
-* `attendance rate`: Attendance rate of the student (%)
-* `hours_per_week`: Numbers of hours student studies per week
-* `n_male`: Number of male
-* `n_female`: Number of female 
-* `number_of_siblings`: Number of siblings
-* `sleep_time`: Daily Sleeping time (hours:mins)
-* `wake_time`: Daily waking up time (hours:mins)
-* `Age`: Age of the student
+* `Numerical Features`: Description of numerical features
 
 # Sypnopsis of the problem. 
-* **Regression**: A simple regression problem on the final_test score. The test score exhibits normal distribution and the evalutation criteria will be based on Mean Absolute Error (MAE).
-
-* **Classification**: The classification problem will classify all the grades into ordinal features ranging from 1-10. Since the classes are ordinal, it would be appropriate to evaluate them based on MAE of the respective classes. 
-
+* **Regression/Classification**: For you to decide whether you want to use regression or classification
 
 ## Overview of Submitted folder
 .
