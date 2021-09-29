@@ -24,7 +24,7 @@ Date​: DD/MM/YY
 ├── eda.ipnyb
 ├── __init__.py
 ├── data
-│   └── score.db
+│   └── score.db # removed
 ├── requirements.txt
 ├── results
 │   └── MAE.csv
