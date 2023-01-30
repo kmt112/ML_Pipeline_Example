@@ -1,7 +1,7 @@
 # Machine Learning Pipeline
-## *title*
-Name : Your name 
-Date​: DD/MM/YY
+## title
+Name : Tan Kah Ming 
+Date​: 30/10/22
 ## Data Overview
 ### Independent Features
 * `describe the features`​: Describe the features
