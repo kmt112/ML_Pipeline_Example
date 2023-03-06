@@ -4,7 +4,7 @@ Name : Tan Kah Ming
 Date​: 30/10/22
 ## Data Overview
 ### Independent Features
-* `describe the features`​: Describe the features
+* `Describe the features`​: Describe the features
 ### Target Feature
 * `Target Feature`: Describe the target score
 ### Unique Identifying Features
@@ -20,7 +20,7 @@ Date​: 30/10/22
 * **Regression/Classification**: For you to decide whether you want to use regression or classification
 
 ## Overview of Submitted folder
-.
+```
 ├── eda.ipnyb
 ├── __init__.py
 ├── data
@@ -38,7 +38,7 @@ Date​: 30/10/22
     │   ├── model_classification.py
     │   └── model_regression.py
     └── run.py
-
+```
 ## Executing the pipeline
 **Step 1) Data-preprocessing(eda_preprocessing.py)**
 Imports the data from .db file, data is processed through the findings from EDA.ipnyb
